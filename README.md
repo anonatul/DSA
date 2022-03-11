@@ -3,5 +3,5 @@ A personal project with implementations of data structures and algorithms, writt
 
 <div align=center>
 
-[![typing speed x 1000](https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv)](https://github.com/anon)
+[![typing speed x 1000](https://upload.wikimedia.org/wikipedia/commons/2/2e/Boruvka%27s_algorithm_%28Sollin%27s_algorithm%29_Anim.gif)](https://github.com/anon)
 </div>
